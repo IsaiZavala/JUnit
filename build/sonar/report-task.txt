@@ -1,0 +1,7 @@
+organization=isaizavala
+projectKey=IsaiZavala_JUnit
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.42239
+dashboardUrl=https://sonarcloud.io/dashboard?id=IsaiZavala_JUnit
+ceTaskId=AYiXvAcI0HaK8MInkyKm
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYiXvAcI0HaK8MInkyKm
